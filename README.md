@@ -14,4 +14,4 @@ A mortage calculator made using Object Oriented Programming in Java
 .<br>
 ![output image 2](./images/image-2.png) <br>
 
-**Project taken from:** https://codewithmosh.com/p/the-ultimate-java-mastery-series
+This project was a part of this tutorial series: https://codewithmosh.com/p/the-ultimate-java-mastery-series
