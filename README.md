@@ -1,5 +1,5 @@
 **Project Description:**
-A mortage calculator made using Object Oriented Programming in Java
+Mortgage Calculator made using Object Oriented Programming style in Java
 
 **Classes:**
 1. Main: class containing the main method
