@@ -1,6 +1,6 @@
 **Mortgage Calculator Application**
 
-**Credits:** This project was part of the following amazing tutorial series: https://codewithmosh.com/p/the-ultimate-java-mastery-series
+**Credits:** This project was part of the following tutorial series: https://codewithmosh.com/p/the-ultimate-java-mastery-series
 
 **About this Project:**
 A Mortgage Calculator Command Line Application written in Java following the Object Oriented Programming Paradigm
